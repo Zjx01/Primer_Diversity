@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+Primer_Diversity/__init__.py
+Primer_Diversity/calculate_diversity.py
+Primer_Diversity/multi_scheme_diversity_check.py
+Primer_Diversity/primer_diversity_check.py
+Primer_Diversity/single_scheme_diversity_check.py
+Primer_Diversity.egg-info/PKG-INFO
+Primer_Diversity.egg-info/SOURCES.txt
+Primer_Diversity.egg-info/dependency_links.txt
+Primer_Diversity.egg-info/entry_points.txt
+Primer_Diversity.egg-info/requires.txt
+Primer_Diversity.egg-info/top_level.txt

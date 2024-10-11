@@ -1,0 +1,2 @@
+[console_scripts]
+Primer_Diversity = Primer_Diversity.calculate_diversity:main

@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: Primer_Diversity
+Version: 1.0
+Requires-Python: >=3.12.2
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: biopython
+Requires-Dist: seaborn
+Requires-Dist: logomaker
+Requires-Dist: matplotlib
